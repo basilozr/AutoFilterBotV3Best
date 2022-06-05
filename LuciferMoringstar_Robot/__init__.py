@@ -28,14 +28,11 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
-    
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+Something About Me ✌️
 
-➥ Language : Python3
-
-➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+◉ Support : <a href="https://t.me/Graphic_Resource">Graphic_Resource</a>
+◉ Files : Graphics related only 🙄
+◉ MyDev : @mrdlx 
+◉ Source Code : <a href="https://t.me/sanamkayinnmone/2">click here</a>
+◉ Update Channel : @Grafx_files
 """
