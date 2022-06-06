@@ -30,8 +30,8 @@ Bot Owner Only
 ABOUT = """
 Something About Me ✌️
 
-◉ Support : <a href="https://t.me/Graphic_Resource">Graphic_Resource</a>
-◉ Files : Graphics related only 🙄
+◉ Support : <a href="https://t.me/Grafx_design">Grafx Design</a>
+◉ Files : Graphic Design Elements 
 ◉ MyDev : @mrdlx 
 ◉ Source Code : <a href="https://t.me/sanamkayinnmone/2">click here</a>
 ◉ Update Channel : @Grafx_files
