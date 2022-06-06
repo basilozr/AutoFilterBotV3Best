@@ -13,7 +13,7 @@ from .Channel import (
 HELP = """
 /start :- check am Alive
 
-How To Use Bot 📝
+<b>How To Use Bot 📝<\b> 
 ➖➖➖➖➖➖➖➖➖➖
 നിങ്ങൾക്ക് ആവശ്യമുള്ള ഫയൽ സപ്പോർട്ട്
 ഗ്രൂപ്പിൽ ടൈപ്പ് ചെയ്ത് സെന്റ് ചെയ്യുക..
@@ -22,7 +22,7 @@ How To Use Bot 📝
 
 NB :- Spelling Mistake ഉണ്ടാവരുത് 🤣
 
-🔗 More Bots :-
+🔗 <b>More Bots :-</b>
 
 • @Manypng_bot
 • @Manybg_bot
@@ -32,7 +32,7 @@ NB :- Spelling Mistake ഉണ്ടാവരുത് 🤣
 """
 
 ABOUT = """
-Something About Me ✌️
+Something About Me 🤭
 
 ◉ Support : <a href="https://t.me/Grafx_design">Grafx Design</a>
 ◉ Files : Graphic Design Elements 
