@@ -11,20 +11,23 @@ from .Channel import (
 )
 
 HELP = """
-Basic Commads
+Our Services
+➖➖➖➖➖➖➖
+🔗 Free Files :-
 
-/start :- check am Alive
+• Design Related Apk Files  ( Mod & Premium )
+• Many Type Fonts ( Include Malayalam English,Arabic...Etc)
+• Free Background Elements
+• Free Png Elements ( Typography,Icons,Patterns...Etc)
+• Doubts will be resolved
 
-Bot Owner Only
-/broadcast Replay Any Message or Media
-/stats user Status
-/ban_user  click ban_user more info
-/unban_user click unban_user more info
-/banned_users Banned User Details
-/total How Many Files Added In Database
-/logger  Get Logs
-/delete Delete File From Database
+🔗 More Bots :-
 
+• @Manypng_bot
+• @Manybg_bot
+
+ബാക്കി ഹെൽപ്പുകൾക്ക് സപ്പോർട്ട്
+ഗ്രൂപ്പിൽ ജോയിൻ ചെയ്യുക...
 """
 
 ABOUT = """
