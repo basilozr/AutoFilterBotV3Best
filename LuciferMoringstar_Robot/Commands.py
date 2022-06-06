@@ -115,13 +115,13 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
+                InlineKeyboardButton("🔎 Search Here 🔍", switch_inline_query_current_chat='')
                 ],[
                 InlineKeyboardButton("ℹ️ Help", callback_data="help"),
                 InlineKeyboardButton("📝 About", callback_data="about")
                 ],[
                 InlineKeyboardButton("😈 My Dev", url="t.me/mrdlx"),
-                InlineKeyboardButton("🔖Support", url="t.me/grafx_design")
+                InlineKeyboardButton("🔖 Support", url="t.me/grafx_design")
                 ]]
             )
         )
