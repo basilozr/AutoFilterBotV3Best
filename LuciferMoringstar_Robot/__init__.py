@@ -11,15 +11,16 @@ from .Channel import (
 )
 
 HELP = """
-Our Services
-➖➖➖➖➖➖➖
-🔗 Free Files :-
+/start :- check am Alive
 
-• Design Related Apk Files  ( Mod & Premium )
-• Many Type Fonts ( Include Malayalam English,Arabic...Etc)
-• Free Background Elements
-• Free Png Elements ( Typography,Icons,Patterns...Etc)
-• Doubts will be resolved
+How To Use Bot 📝
+➖➖➖➖➖➖➖➖➖➖
+നിങ്ങൾക്ക് ആവശ്യമുള്ള ഫയൽ സപ്പോർട്ട്
+ഗ്രൂപ്പിൽ ടൈപ്പ് ചെയ്ത് സെന്റ് ചെയ്യുക..
+വരുന്ന ബട്ടണിൽ ക്ലിക്ക് ചെയ്താൽ
+നിങ്ങൾക്ക് ബോട്ടിൽ എത്തി ഫയൽ ലഭിക്കും....
+
+NB :- Spelling Mistake ഉണ്ടാവരുത് 🤣
 
 🔗 More Bots :-
 
