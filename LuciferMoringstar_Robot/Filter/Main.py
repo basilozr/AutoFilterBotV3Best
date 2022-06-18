@@ -29,7 +29,7 @@ async def filter(client, message):
         except UserNotParticipant:
             await client.send_message(
                 chat_id=message.from_user.id,
-                text="ഞങ്ങളുടെ അപ്ഡേറ്റ് ചാനലിൽ ജോയിൻ ചെയ്താൽ മാത്രമേ നിങ്ങൾക്ക് ഫയർ ലഭിക്കുകയുള്ളൂ...",
+                text="Please Join Our Update channel...",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
