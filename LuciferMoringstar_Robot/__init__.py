@@ -12,10 +12,11 @@ from .Channel import (
 
 HELP = """
 /start :- check am Alive
+/search :- search files
 
 <b>How To Use Bot 📝</b> 
 ➖➖➖➖➖➖➖➖➖➖
-Please Send Your File Name
+Please Send Your File Name 
 NB :- No Spelling Mistake  🤣
 
 🔗 <b>More Bots :-</b>
