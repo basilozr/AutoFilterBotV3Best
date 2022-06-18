@@ -15,26 +15,21 @@ HELP = """
 
 <b>How To Use Bot 📝</b> 
 ➖➖➖➖➖➖➖➖➖➖
-നിങ്ങൾക്ക് ആവശ്യമുള്ള ഫയൽ എനിക്ക് 
-ടൈപ്പ്ചെയ്ത് സെന്റ് ചെയ്യുക..
-വരുന്ന ബട്ടണിൽ ക്ലിക്ക് ചെയ്താൽ
-നിങ്ങൾക്ക് ഫയൽ ലഭിക്കും....
-
-NB :- Spelling Mistake ഉണ്ടാവരുത് 🤣
+Please Send Your File Name
+NB :- No Spelling Mistake  🤣
 
 🔗 <b>More Bots :-</b>
 
 • @Manypng_bot
 • @Manybg_bot
 
-ബാക്കി ഹെൽപ്പുകൾക്ക് സപ്പോർട്ട്
-ഗ്രൂപ്പിൽ ജോയിൻ ചെയ്യുക...
+Please Join For More Hepls
 """
 
 ABOUT = """
 Something About Me 🤭
 
-◉ Support : <a href="https://t.me/Grafx_design">Grafx Design</a>
+◉ Support : <a href="https://t.me/graphic_resources">Graphic Resources</a>
 ◉ Files : Graphic Design Elements 
 ◉ MyDev : @mrdlx 
 ◉ Source Code : <a href="https://t.me/sanamkayinnmone/2">click here</a>
