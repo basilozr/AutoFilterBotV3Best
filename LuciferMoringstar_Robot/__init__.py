@@ -36,3 +36,16 @@ Something About Me 🤭
 ◉ Source Code : <a href="https://t.me/sanamkayinnmone/2">click here</a>
 ◉ Update Channel : @Grafx_files
 """
+
+
+START = """
+👋 Hello Bro
+I'm Graphic Resources Bot 🤖
+
+Here you can search graphics files, Use
+the below buttons or send me the name
+of file to search...!!
+
+My Boss Dāwôöd ഇബ്രാഹിം 😎
+"""
+
