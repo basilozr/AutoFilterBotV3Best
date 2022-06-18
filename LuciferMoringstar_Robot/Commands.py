@@ -114,9 +114,7 @@ async def start(bot, message):
             parse_mode="Markdown",
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
-                [[
-                InlineKeyboardButton("🔎  Search Here  🔍", switch_inline_query_current_chat='')
-                ],[
+                [[               
                 InlineKeyboardButton("ℹ️ Help", callback_data="help"),
                 InlineKeyboardButton("📝 About", callback_data="about")
                 ],[
@@ -137,7 +135,7 @@ async def help(bot, message):
                 [[
                 InlineKeyboardButton("🔎  Search Here  🔍", switch_inline_query_current_chat='')
                 ],[
-                InlineKeyboardButton("ℹ️ Help", callback_data="help"),
+                InlineKeyboardButton("🔖 Support", url="t.me/graphic_resources"),
                 InlineKeyboardButton("📝 About", callback_data="about")             
                 ]]
             )
