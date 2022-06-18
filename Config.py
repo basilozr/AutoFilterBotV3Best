@@ -28,7 +28,7 @@ auth_channel = environ.get('FORCES_SUB')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else auth_channel
 AUTH_GROUPS = [int(admin) for admin in environ.get("AUTH_GROUPS", "").split()]
 TUTORIAL = "http://t.me/share/url?url=http://t.me/graphtip_bot"
-GRAPHIC = "t.me/grafx_Design"
+GRAPHIC = "https://t.me/Graphic_Resource"
 
 # MongoDB information
 DATABASE_URI = environ['DATABASE_2']
