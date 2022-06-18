@@ -128,7 +128,7 @@ async def start(bot, message):
         StopPropagation
 
 @Client.on_message(filters.command("search"))
-async def start(bot, message):    
+async def help(bot, message):    
         await message.reply_text(
             START_MSG,
             parse_mode="Markdown",
