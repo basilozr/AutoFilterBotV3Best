@@ -135,7 +135,7 @@ async def help(bot, message):
                 [[
                 InlineKeyboardButton("🔎  Search Here  🔍", switch_inline_query_current_chat='')
                 ],[
-                InlineKeyboardButton("🔖 Support", url="t.me/graphic_resources"),
+                InlineKeyboardButton("🔖 Support", url="t.me/graphic_resource"),
                 InlineKeyboardButton("📝 About", callback_data="about")             
                 ]]
             )
